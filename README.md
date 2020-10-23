@@ -61,6 +61,8 @@
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"></img>
   <img src="https://img.shields.io/badge/pivotal%20tracker-%23517A9E.svg?&style=for-the-badge&logo=Pivotal-Tracker&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/vs%20code-%234A154B.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></img>
   <img src="https://img.shields.io/badge/apple-macbook%20pro%202015-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"></img>
   <img src="https://img.shields.io/badge/switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white"></img>
 </p>
@@ -69,6 +71,9 @@
 
 <p align='center'>You can find me on <a href="https://www.linkedin.com/in/beck-lin/"><img alt="Beck @ Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>.</p>
 
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here
+</p>
 
 <!--
 ### Hi there 👋
@@ -87,4 +92,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/alexandresanlim
 -->
