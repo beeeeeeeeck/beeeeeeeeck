@@ -1,10 +1,6 @@
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Beck.</p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=beeeeeeeeck&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
 <!--
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
@@ -70,6 +66,10 @@
 <h1 align='center'><i>Stay eager!</i></h1>
 
 <p align='center'>You can find me on <a href="https://www.linkedin.com/in/beck-lin/"><img alt="Beck @ Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>.</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=beeeeeeeeck&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here
