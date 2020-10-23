@@ -1,6 +1,9 @@
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Beck.</p>
 
+<p align='center'>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+</p>
 
 <h1 align='center'><i>Stay eager!</i></h1>
 
