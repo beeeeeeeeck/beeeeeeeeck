@@ -14,17 +14,27 @@
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=4FC08D)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=8DD6F9)
 ![](https://img.shields.io/badge/Code-Babel-informational?style=flat&logo=Babel&logoColor=white&color=F9DC3E)
+![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSON-Web-Tokens&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6DB33F)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=D24939)
+![](https://img.shields.io/badge/Tool-Vargrant-informational?style=flat&logo=Vargrant&logoColor=white&color=1563FF)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/Track-PivotalTracker-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=517A9E)
 
 <h1 align='center'><i>Stay eager!</i></h1>
 
+You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/beck-lin/
+
 
 <!--
 ### Hi there 👋
