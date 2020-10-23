@@ -34,22 +34,31 @@
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/coffeescript%20-%232F2625.svg?&style=for-the-badge&logo=coffeescript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/koa.js%20-%23404d59.svg?&style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
+  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"></img>
+  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/styled%20components-%23DB7093.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/babel-%23F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?&style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/vargrant-%231563FF.svg?&style=for-the-badge&logo=Vargrant&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/pivotal%20tracker-%23517A9E.svg?&style=for-the-badge&logo=Pivotal-Tracker&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/apple-macbook%20pro%202015-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white"></img>
 </p>
 
 <h1 align='center'><i>Stay eager!</i></h1>
