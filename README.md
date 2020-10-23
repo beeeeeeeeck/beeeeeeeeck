@@ -27,14 +27,7 @@
 
 <h1 align='center'><i>Stay eager!</i></h1>
 
-You can find me on [![LinkedIn][1.1]][1].
-<p align='center'>You can find me on <a href="https://www.linkedin.com/in/beck-lin/"><img alt="Beck @ Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a></p>
-
-<!-- Icons -->
-[1.1]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white (Beck @ Linkedin)
-
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/beck-lin/
+<p align='center'>You can find me on <a href="https://www.linkedin.com/in/beck-lin/"><img alt="Beck @ Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>.</p>
 
 
 <!--
