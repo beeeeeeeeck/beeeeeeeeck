@@ -30,7 +30,7 @@
 You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
-[1.1]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg (Linkedin icon)
+[1.1]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white (Beck @ Linkedin)
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/beck-lin/
