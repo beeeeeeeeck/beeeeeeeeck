@@ -27,7 +27,7 @@
 
 <h1 align='center'><i>Stay eager!</i></h1>
 
-You can find me on [![LinkedIn][1.1]][1].
+<p align='center'>You can find me on [![LinkedIn][1.1]][1].</p>
 
 <!-- Icons -->
 [1.1]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white (Beck @ Linkedin)
@@ -51,4 +51,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
